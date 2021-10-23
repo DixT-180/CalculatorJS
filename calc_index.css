@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+.container {
+  margin-left: 100px;
+}
+.console {
+  margin-top: 50px;
+  width: 100px;
+  padding-top: 5px;
+  margin-bottom: 2.5px;
+}
+
+button {
+  margin-left: -4px;
+  width: 24.5px;
+  /* background-color: #ccc; */
+  line-height: 1.5em;
+  font-family: "Roboto";
+  font-weight: 100;
+}
+
+#z0 {
+  padding-right: 88px;
+}
+
+#op {
+  color: purple;
+  font-style: bold;
+}
+
+.console {
+  color: white;
+  background: #333;
+  margin-left: -5px;
+  border-radius: 5px;
+  height: 25px;
+}
+.ze {
+  transform: translateX(35px);
+}
